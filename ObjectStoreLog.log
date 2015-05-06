@@ -1,0 +1,488 @@
+2015-04-17 @ 13:02:34
+Starting replicated storage engine
+2015-04-17 @ 13:02:34
+Getting settings for get by keyword
+2015-04-17 @ 13:02:34
+Executing repository : Elastic Search
+2015-04-17 @ 13:02:34
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 13:02:34
+Reusing existing Elastic Search connection
+2015-04-17 @ 13:04:02
+Starting replicated storage engine
+2015-04-17 @ 13:04:02
+Getting settings for get by keyword
+2015-04-17 @ 13:04:02
+Executing repository : Elastic Search
+2015-04-17 @ 13:04:02
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 13:04:02
+Reusing existing Elastic Search connection
+2015-04-17 @ 13:04:53
+Starting replicated storage engine
+2015-04-17 @ 13:04:53
+Getting settings for get by keyword
+2015-04-17 @ 13:04:53
+Executing repository : Elastic Search
+2015-04-17 @ 13:04:53
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 13:04:53
+Reusing existing Elastic Search connection
+2015-04-17 @ 13:07:01
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 13:07:01
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@ABCsdfsfsfcom}}}
+2015-04-17 @ 13:07:01
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 13:07:01
+Executing repository : Redis
+2015-04-17 @ 13:07:01
+GetSearch not implemented in Redis repository
+2015-04-17 @ 13:07:01
+Executing repository : Redis - Failed
+2015-04-17 @ 13:07:01
+Starting replicated storage engine
+2015-04-17 @ 13:07:01
+Getting settings for single insert
+2015-04-17 @ 13:07:01
+Executing repository : Elastic Search
+2015-04-17 @ 13:07:01
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 13:07:01
+Reusing existing Elastic Search connection
+2015-04-17 @ 13:07:01
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom
+2015-04-17 @ 13:46:10
+Starting replicated storage engine
+2015-04-17 @ 13:46:10
+Getting settings for get by keyword
+2015-04-17 @ 13:46:10
+Executing repository : Elastic Search
+2015-04-17 @ 13:46:10
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 13:46:10
+Reusing existing Elastic Search connection
+2015-04-17 @ 13:48:17
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 13:48:17
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@ABCsdfsfsfcom}}}
+2015-04-17 @ 13:48:17
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 13:48:17
+Executing repository : Redis
+2015-04-17 @ 13:48:17
+GetSearch not implemented in Redis repository
+2015-04-17 @ 13:48:17
+Executing repository : Redis - Failed
+2015-04-17 @ 13:48:17
+Starting replicated storage engine
+2015-04-17 @ 13:48:17
+Getting settings for single insert
+2015-04-17 @ 13:48:17
+Executing repository : Elastic Search
+2015-04-17 @ 13:48:17
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 13:48:17
+Reusing existing Elastic Search connection
+2015-04-17 @ 13:48:17
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom
+2015-04-17 @ 13:50:25
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 13:50:25
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 13:50:25
+Transaction failed Rollbacking!!!
+2015-04-17 @ 14:03:09
+Starting replicated storage engine
+2015-04-17 @ 14:03:09
+Getting settings for get by keyword
+2015-04-17 @ 14:03:09
+Executing repository : Elastic Search
+2015-04-17 @ 14:03:09
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 14:03:09
+Reusing existing Elastic Search connection
+2015-04-17 @ 14:05:17
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 14:05:17
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@ABCsdfsfsfcom}}}
+2015-04-17 @ 14:05:17
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 14:05:17
+Executing repository : Redis
+2015-04-17 @ 14:05:17
+GetSearch not implemented in Redis repository
+2015-04-17 @ 14:05:17
+Executing repository : Redis - Failed
+2015-04-17 @ 14:05:17
+Starting replicated storage engine
+2015-04-17 @ 14:05:17
+Getting settings for single insert
+2015-04-17 @ 14:05:17
+Executing repository : Elastic Search
+2015-04-17 @ 14:05:17
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 14:05:17
+Reusing existing Elastic Search connection
+2015-04-17 @ 14:05:17
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom
+2015-04-17 @ 14:07:24
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 14:07:24
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 14:07:24
+Transaction failed Rollbacking!!!
+2015-04-17 @ 15:13:20
+Starting replicated storage engine
+2015-04-17 @ 15:13:20
+Getting settings for get by keyword
+2015-04-17 @ 15:13:20
+Executing repository : Elastic Search
+2015-04-17 @ 15:13:20
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 15:13:20
+Reusing existing Elastic Search connection
+2015-04-17 @ 15:15:27
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 15:15:27
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@ABCsdfsfsfcom}}}
+2015-04-17 @ 15:15:27
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 15:15:27
+Executing repository : Redis
+2015-04-17 @ 15:15:27
+GetSearch not implemented in Redis repository
+2015-04-17 @ 15:15:27
+Executing repository : Redis - Failed
+2015-04-17 @ 15:15:27
+Starting replicated storage engine
+2015-04-17 @ 15:15:27
+Getting settings for single insert
+2015-04-17 @ 15:15:27
+Executing repository : Elastic Search
+2015-04-17 @ 15:15:27
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 15:15:27
+Reusing existing Elastic Search connection
+2015-04-17 @ 15:15:27
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom
+2015-04-17 @ 15:17:35
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 15:17:35
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 15:17:35
+Transaction failed Rollbacking!!!
+2015-04-17 @ 16:08:37
+Starting replicated storage engine
+2015-04-17 @ 16:08:37
+Getting settings for get by keyword
+2015-04-17 @ 16:08:37
+Executing repository : Elastic Search
+2015-04-17 @ 16:08:37
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 16:08:37
+Reusing existing Elastic Search connection
+2015-04-17 @ 16:10:45
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 16:10:45
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@ABCsdfsfsfcom}}}
+2015-04-17 @ 16:10:45
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 16:10:45
+Executing repository : Redis
+2015-04-17 @ 16:10:45
+GetSearch not implemented in Redis repository
+2015-04-17 @ 16:10:45
+Executing repository : Redis - Failed
+2015-04-17 @ 16:10:45
+Starting replicated storage engine
+2015-04-17 @ 16:10:45
+Getting settings for single insert
+2015-04-17 @ 16:10:45
+Executing repository : Elastic Search
+2015-04-17 @ 16:10:45
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 16:10:45
+Reusing existing Elastic Search connection
+2015-04-17 @ 16:10:45
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom
+2015-04-17 @ 16:12:52
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 16:12:52
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 16:12:52
+Transaction failed Rollbacking!!!
+2015-04-17 @ 16:15:04
+Starting replicated storage engine
+2015-04-17 @ 16:15:04
+Getting settings for get by keyword
+2015-04-17 @ 16:15:04
+Executing repository : Elastic Search
+2015-04-17 @ 16:15:04
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 16:15:04
+Reusing existing Elastic Search connection
+2015-04-17 @ 16:17:11
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 16:17:11
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@ABCsdfsfsfcom}}}
+2015-04-17 @ 16:17:11
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 16:17:11
+Executing repository : Redis
+2015-04-17 @ 16:17:11
+GetSearch not implemented in Redis repository
+2015-04-17 @ 16:17:11
+Executing repository : Redis - Failed
+2015-04-17 @ 16:17:11
+Starting replicated storage engine
+2015-04-17 @ 16:17:11
+Getting settings for single insert
+2015-04-17 @ 16:17:11
+Executing repository : Elastic Search
+2015-04-17 @ 16:17:11
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 16:17:11
+Reusing existing Elastic Search connection
+2015-04-17 @ 16:17:11
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom
+2015-04-17 @ 16:19:18
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 16:19:18
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 16:19:18
+Transaction failed Rollbacking!!!
+2015-04-17 @ 16:23:25
+Starting replicated storage engine
+2015-04-17 @ 16:23:25
+Getting settings for get by keyword
+2015-04-17 @ 16:23:25
+Executing repository : Elastic Search
+2015-04-17 @ 16:23:25
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 16:23:25
+Reusing existing Elastic Search connection
+2015-04-17 @ 16:25:33
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-17 @ 16:25:33
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@ABCsdfsfsfcom}}}
+2015-04-17 @ 16:25:33
+Executing repository : Elastic Search - Failed
+2015-04-17 @ 16:25:33
+Executing repository : Redis
+2015-04-17 @ 16:25:33
+GetSearch not implemented in Redis repository
+2015-04-17 @ 16:25:33
+Executing repository : Redis - Failed
+2015-04-17 @ 16:25:33
+Starting replicated storage engine
+2015-04-17 @ 16:25:33
+Getting settings for single insert
+2015-04-17 @ 16:25:33
+Executing repository : Elastic Search
+2015-04-17 @ 16:25:33
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 16:25:33
+Reusing existing Elastic Search connection
+2015-04-17 @ 16:25:33
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@ABCsdfsfsfcom
+2015-04-17 @ 16:53:14
+Starting replicated storage engine
+2015-04-17 @ 16:53:14
+Getting settings for get by keyword
+2015-04-17 @ 16:53:14
+Executing repository : Elastic Search
+2015-04-17 @ 16:53:14
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-17 @ 16:53:14
+Reusing existing Elastic Search connection
+2015-04-20 @ 09:46:28
+Starting replicated storage engine
+2015-04-20 @ 09:46:28
+Getting settings for get by keyword
+2015-04-20 @ 09:46:28
+Executing repository : Elastic Search
+2015-04-20 @ 09:46:28
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 09:46:28
+Reusing existing Elastic Search connection
+2015-04-20 @ 09:46:28
+Starting replicated storage engine
+2015-04-20 @ 09:46:28
+Getting settings for get by keyword
+2015-04-20 @ 09:46:28
+Executing repository : Elastic Search
+2015-04-20 @ 09:46:28
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 09:46:28
+Reusing existing Elastic Search connection
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: no route to host
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: no route to host
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@duosoftware.com}}}
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@duosoftware.com}}}
+2015-04-20 @ 09:47:34
+Executing repository : Elastic Search - Failed
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Executing repository : Elastic Search - Failed
+Executing repository : Redis
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Executing repository : Redis
+GetSearch not implemented in Redis repository
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+GetSearch not implemented in Redis repository
+Executing repository : Redis - Failed
+2015-04-20 @ 09:47:34
+Executing repository : Redis - Failed
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Starting replicated storage engine
+Starting replicated storage engine
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Getting settings for single insert
+Getting settings for single insert
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Executing repository : Elastic Search
+Executing repository : Elastic Search
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Establishing new connection for Elastic Search 10.132.55.162:9200
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Reusing existing Elastic Search connection
+Reusing existing Elastic Search connection
+2015-04-20 @ 09:47:34
+2015-04-20 @ 09:47:34
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@duosoftware.com
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@duosoftware.com
+2015-04-20 @ 09:49:41
+2015-04-20 @ 09:49:41
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@duosoftware.com: dial tcp 10.132.55.162:9200: connection timed out
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@duosoftware.com: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-20 @ 09:49:41
+2015-04-20 @ 09:49:41
+Executing repository : Elastic Search - Failed
+Executing repository : Elastic Search - Failed
+2015-04-20 @ 09:49:41
+2015-04-20 @ 09:49:41
+Transaction failed Rollbacking!!!
+Transaction failed Rollbacking!!!
+2015-04-20 @ 13:43:08
+Starting replicated storage engine
+2015-04-20 @ 13:43:08
+Getting settings for get by keyword
+2015-04-20 @ 13:43:08
+Executing repository : Elastic Search
+2015-04-20 @ 13:43:08
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 13:43:09
+Reusing existing Elastic Search connection
+2015-04-20 @ 13:43:09
+Starting replicated storage engine
+2015-04-20 @ 13:43:09
+Getting settings for get by keyword
+2015-04-20 @ 13:43:09
+Executing repository : Elastic Search
+2015-04-20 @ 13:43:09
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 13:43:09
+Reusing existing Elastic Search connection
+2015-04-20 @ 14:21:51
+Starting replicated storage engine
+2015-04-20 @ 14:21:51
+Getting settings for get by keyword
+2015-04-20 @ 14:21:51
+Executing repository : Elastic Search
+2015-04-20 @ 14:21:51
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 14:21:51
+Reusing existing Elastic Search connection
+2015-04-20 @ 14:23:58
+Error retrieving object from elastic search : Post http://10.132.55.162:9200/users/users/_search: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-20 @ 14:23:58
+Error Query : {from: 0, size: 100000, query:{query_string : {query : pamidu@duosoftware.com}}}
+2015-04-20 @ 14:23:58
+Executing repository : Elastic Search - Failed
+2015-04-20 @ 14:23:58
+Executing repository : Redis
+2015-04-20 @ 14:23:58
+GetSearch not implemented in Redis repository
+2015-04-20 @ 14:23:58
+Executing repository : Redis - Failed
+2015-04-20 @ 14:23:58
+Starting replicated storage engine
+2015-04-20 @ 14:23:58
+Getting settings for single insert
+2015-04-20 @ 14:23:58
+Executing repository : Elastic Search
+2015-04-20 @ 14:23:58
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 14:23:58
+Reusing existing Elastic Search connection
+2015-04-20 @ 14:23:58
+Inserting single object to Elastic Search : com.duosoftware.auth.users.pamidu@duosoftware.com
+2015-04-20 @ 14:26:05
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.pamidu@duosoftware.com: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-20 @ 14:26:05
+Executing repository : Elastic Search - Failed
+2015-04-20 @ 14:26:05
+Transaction failed Rollbacking!!!
+2015-04-20 @ 14:26:05
+Starting replicated storage engine
+2015-04-20 @ 14:26:05
+Getting settings for single insert
+2015-04-20 @ 14:26:05
+Executing repository : Elastic Search
+2015-04-20 @ 14:26:05
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 14:26:05
+Reusing existing Elastic Search connection
+2015-04-20 @ 14:26:05
+Inserting single object to Elastic Search : com.duosoftware.com.Activation.pamidu@duosoftware.com
+2015-04-20 @ 14:28:12
+Elastic Search Single Insert Error : Put http://10.132.55.162:9200/Activation/Activation/com.duosoftware.com.Activation.pamidu@duosoftware.com: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-20 @ 14:28:12
+Executing repository : Elastic Search - Failed
+2015-04-20 @ 14:28:12
+Transaction failed Rollbacking!!!
+2015-04-20 @ 17:53:37
+Starting replicated storage engine
+2015-04-20 @ 17:53:37
+Getting settings for get by key
+2015-04-20 @ 17:53:37
+Executing repository : Elastic Search
+2015-04-20 @ 17:53:37
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 17:53:37
+Reusing existing Elastic Search connection
+2015-04-20 @ 17:53:37
+Elastic Search Get By Key : com.duosoftware.auth.users.sample6@gmail.com
+2015-04-20 @ 17:53:37
+Starting replicated storage engine
+2015-04-20 @ 17:53:37
+Getting settings for get by key
+2015-04-20 @ 17:53:37
+Executing repository : Elastic Search
+2015-04-20 @ 17:53:37
+Establishing new connection for Elastic Search 10.132.55.162:9200
+2015-04-20 @ 17:53:37
+Reusing existing Elastic Search connection
+2015-04-20 @ 17:53:37
+Elastic Search Get By Key : com.duosoftware.auth.users.sample6@gmail.com
+2015-04-20 @ 17:55:45
+Error retrieving object from elastic search : Get http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.sample6@gmail.com: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-20 @ 17:55:45
+Executing repository : Elastic Search - Failed
+2015-04-20 @ 17:55:45
+Error retrieving object from elastic search : Get http://10.132.55.162:9200/users/users/com.duosoftware.auth.users.sample6@gmail.com: dial tcp 10.132.55.162:9200: connection timed out
+2015-04-20 @ 17:55:45
+Executing repository : Elastic Search - Failed
